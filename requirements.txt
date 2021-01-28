@@ -6,3 +6,4 @@ scikit-learn
 python-picard
 matplotlib>1.3
 phyaat>0.0.1
+keras
