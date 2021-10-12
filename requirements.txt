@@ -9,3 +9,4 @@ phyaat>0.0.1
 tensorflow
 keras
 pylfsr
+PyWavelets
